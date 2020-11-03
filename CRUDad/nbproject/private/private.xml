@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Controlador/ControladorPosicion.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>95</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/Controlador/ControladorUsuario.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/Controlador/ControladorPosicion.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/Controlador/ControladorDatos.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/crudad/VistaCRUD.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/test/UnitTestInserción.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/crudad/CRUDad.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/Controlador/ControladorVista.java</file>
+            <file>file:/Users/guillermosq/NetBeansProjects/CRUDad/src/Controlador/ControladorMemoria.java</file>
+        </group>
+    </open-files>
+</project-private>
